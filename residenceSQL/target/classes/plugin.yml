@@ -1,0 +1,12 @@
+name: ResidenceSQL
+version: '1.0-SNAPSHOT'
+main: residencesql.residencesql.ResidenceSQL
+api-version: 1.19
+authors: [ siege260 ]
+folia-supported: true
+commands:
+  createres:
+  welcomemessage:
+  addmember:
+  removemember:
+  removeresidence:
